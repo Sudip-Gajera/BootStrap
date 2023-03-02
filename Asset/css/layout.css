@@ -13,3 +13,25 @@
 .blue{
     background-color: rgb(126, 126, 173);
 }
+
+
+/* div{
+    height: 250px;
+} */
+
+.box-1{
+    height: 200px;
+}
+.box-2{
+    height: 100px;
+    /* align-content: end; */
+    align-items: baseline;
+}
+
+.box-3{
+    height: 100px;
+}
+h1{
+    height: 150px;
+}
+
