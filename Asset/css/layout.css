@@ -15,23 +15,24 @@
 }
 
 
-/* div{
-    height: 250px;
-} */
-
-.box-1{
-    height: 200px;
-}
-.box-2{
-    height: 100px;
-    /* align-content: end; */
-    align-items: baseline;
+.b-1{
+    height: 300px;
+    overflow: hidden;
+    background-color: rgb(126, 126, 173);
 }
 
-.box-3{
-    height: 100px;
-}
-h1{
+.b-2{
     height: 150px;
+    background-color: rgb(134, 205, 134);
+}
+
+.b-3{
+    height: 150px;
+    background-color: rgb(184, 101, 101);
+}
+
+.b-4{
+    height: 150px;
+    background-color: rgb(194, 194, 139);
 }
 
